@@ -70,24 +70,23 @@
     onerror="this.onerror=null;this.src='https://raw.githubusercontent.com/BordgruppeFem/MandatoryAssignmentWebApps/master/src/assets/imageNotFound.jpg'"
     alt="Movieposter"
   />
-  <div class="card-body d-flex flex-column">
-    <div class="d-flex align-items-center justify-content-between">
-      <p id="release" class="lead">{release}</p>
+  <div class="card-body">
+    <div class="flexomg">
+      <p id="release" class="lead card-text">{release}</p>
       {#if isFavorite}
         <Badge>FAVORITE</Badge>
       {/if}
     </div>
-    <hr />
     <div>
-      <div class="text-center" style="height: 2.5rem">
-        <h3 class=" card-title lead">
-          <strong>
-            {title}
-          </strong>
-        </h3>
-      </div>
-      <hr/>
-      {sliceDescription(description)}
+      <h3 class=" card-title mt-3 lead text-center" style="height: 2.5rem">
+        <strong>
+          {title}
+        </strong>
+      </h3>
+      <hr />
+      <p class="card-text">
+        {sliceDescription(description)}
+      </p>
     </div>
   </div>
   <div class="card-footer text-center">
@@ -123,15 +122,6 @@
 </div>
 
 <style>
-  #release {
-    margin: 0;
-  }
-
-  .card-body {
-    padding: 0;
-    margin: 1rem;
-  }
-
   strong {
     font-size: larger;
     font-family: Arial, Helvetica, sans-serif;
@@ -139,5 +129,19 @@
 
   .card {
     border-color: blueviolet;
+  }
+
+  .card-body {
+    padding: 0;
+    margin: 0 0.5rem;
+  }
+  .lead {
+    margin-bottom: 0;
+    margin-top: 0;
+  }
+  .flexomg {
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
   }
 </style>
