@@ -54,8 +54,8 @@
   button:hover,
   button:active,
   .active {
-    background: #48626A;
-    border-color: #48626A;
+    background: #48626a;
+    border-color: #48626a;
     color: white;
   }
 </style>

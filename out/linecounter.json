@@ -1,0 +1,630 @@
+{
+    "extension": "linecounter",
+    "version": "0.2.7",
+    "workspace": "c:\\Users\\hoeje\\Desktop\\svelte-projects\\svelte-movies",
+    "linecount": [
+        {
+            "version": "0.2.7",
+            "counttime": "2021-05-22 00:47:18",
+            "filesum": 61,
+            "codesum": 14951,
+            "commentsum": 330,
+            "blanksum": 1431,
+            "statistics": {
+                ".json": {
+                    "code": 3670,
+                    "comment": 0,
+                    "blank": 2
+                },
+                "": {
+                    "code": 6,
+                    "comment": 0,
+                    "blank": 2
+                },
+                ".md": {
+                    "code": 72,
+                    "comment": 16,
+                    "blank": 48
+                },
+                ".js": {
+                    "code": 9777,
+                    "comment": 299,
+                    "blank": 1166
+                },
+                ".html": {
+                    "code": 33,
+                    "comment": 0,
+                    "blank": 8
+                },
+                ".css": {
+                    "code": 116,
+                    "comment": 0,
+                    "blank": 23
+                },
+                ".map": {
+                    "code": 2,
+                    "comment": 0,
+                    "blank": 0
+                },
+                ".svelte": {
+                    "code": 1275,
+                    "comment": 15,
+                    "blank": 182
+                }
+            },
+            "filelist": [
+                {
+                    "blank": 1,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": ".gitignore"
+                },
+                {
+                    "blank": 1,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": "c:\\Users\\hoeje\\Desktop\\svelte-projects\\svelte-bindings\\.gitignore"
+                },
+                {
+                    "blank": 1,
+                    "code": 1812,
+                    "comment": 0,
+                    "filename": "c:\\Users\\hoeje\\Desktop\\svelte-projects\\svelte-bindings\\package-lock.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 23,
+                    "comment": 0,
+                    "filename": "c:\\Users\\hoeje\\Desktop\\svelte-projects\\svelte-bindings\\package.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": "c:\\Users\\hoeje\\Desktop\\svelte-projects\\svelte-bindings\\public\\build\\bundle.css"
+                },
+                {
+                    "blank": 597,
+                    "code": 5498,
+                    "comment": 124,
+                    "filename": "c:\\Users\\hoeje\\Desktop\\svelte-projects\\svelte-bindings\\public\\build\\bundle.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "c:\\Users\\hoeje\\Desktop\\svelte-projects\\svelte-bindings\\public\\build\\bundle.js.map"
+                },
+                {
+                    "filename": "c:\\Users\\hoeje\\Desktop\\svelte-projects\\svelte-bindings\\public\\favicon.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 11,
+                    "code": 52,
+                    "comment": 0,
+                    "filename": "c:\\Users\\hoeje\\Desktop\\svelte-projects\\svelte-bindings\\public\\global.css"
+                },
+                {
+                    "blank": 4,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "c:\\Users\\hoeje\\Desktop\\svelte-projects\\svelte-bindings\\public\\index.html"
+                },
+                {
+                    "blank": 24,
+                    "code": 36,
+                    "comment": 8,
+                    "filename": "c:\\Users\\hoeje\\Desktop\\svelte-projects\\svelte-bindings\\README.md"
+                },
+                {
+                    "blank": 10,
+                    "code": 52,
+                    "comment": 14,
+                    "filename": "c:\\Users\\hoeje\\Desktop\\svelte-projects\\svelte-bindings\\rollup.config.js"
+                },
+                {
+                    "blank": 24,
+                    "code": 64,
+                    "comment": 29,
+                    "filename": "c:\\Users\\hoeje\\Desktop\\svelte-projects\\svelte-bindings\\scripts\\setupTypeScript.js"
+                },
+                {
+                    "blank": 4,
+                    "code": 77,
+                    "comment": 0,
+                    "filename": "c:\\Users\\hoeje\\Desktop\\svelte-projects\\svelte-bindings\\src\\App.svelte"
+                },
+                {
+                    "blank": 1,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "c:\\Users\\hoeje\\Desktop\\svelte-projects\\svelte-bindings\\src\\Classes\\ClassBinding.svelte"
+                },
+                {
+                    "blank": 4,
+                    "code": 23,
+                    "comment": 0,
+                    "filename": "c:\\Users\\hoeje\\Desktop\\svelte-projects\\svelte-bindings\\src\\Dimensions.svelte"
+                },
+                {
+                    "blank": 8,
+                    "code": 35,
+                    "comment": 0,
+                    "filename": "c:\\Users\\hoeje\\Desktop\\svelte-projects\\svelte-bindings\\src\\GroupInputs.svelte"
+                },
+                {
+                    "blank": 7,
+                    "code": 33,
+                    "comment": 0,
+                    "filename": "c:\\Users\\hoeje\\Desktop\\svelte-projects\\svelte-bindings\\src\\Keypad.svelte"
+                },
+                {
+                    "blank": 6,
+                    "code": 35,
+                    "comment": 1,
+                    "filename": "c:\\Users\\hoeje\\Desktop\\svelte-projects\\svelte-bindings\\src\\Lifecycles\\OnMount.svelte"
+                },
+                {
+                    "blank": 2,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "c:\\Users\\hoeje\\Desktop\\svelte-projects\\svelte-bindings\\src\\Lifecycles\\utils.js"
+                },
+                {
+                    "blank": 2,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": "c:\\Users\\hoeje\\Desktop\\svelte-projects\\svelte-bindings\\src\\main.js"
+                },
+                {
+                    "blank": 4,
+                    "code": 50,
+                    "comment": 0,
+                    "filename": "c:\\Users\\hoeje\\Desktop\\svelte-projects\\svelte-bindings\\src\\Motion\\Spring.svelte"
+                },
+                {
+                    "blank": 8,
+                    "code": 20,
+                    "comment": 1,
+                    "filename": "c:\\Users\\hoeje\\Desktop\\svelte-projects\\svelte-bindings\\src\\Motion\\Tweening.svelte"
+                },
+                {
+                    "blank": 3,
+                    "code": 15,
+                    "comment": 0,
+                    "filename": "c:\\Users\\hoeje\\Desktop\\svelte-projects\\svelte-bindings\\src\\NumberSlider.svelte"
+                },
+                {
+                    "blank": 0,
+                    "code": 4,
+                    "comment": 0,
+                    "filename": "c:\\Users\\hoeje\\Desktop\\svelte-projects\\svelte-bindings\\src\\SelectBindings.svelte"
+                },
+                {
+                    "blank": 1,
+                    "code": 15,
+                    "comment": 0,
+                    "filename": "c:\\Users\\hoeje\\Desktop\\svelte-projects\\svelte-bindings\\src\\Slots\\Box.svelte"
+                },
+                {
+                    "blank": 3,
+                    "code": 23,
+                    "comment": 0,
+                    "filename": "c:\\Users\\hoeje\\Desktop\\svelte-projects\\svelte-bindings\\src\\Slots\\Hover.svelte"
+                },
+                {
+                    "blank": 3,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "c:\\Users\\hoeje\\Desktop\\svelte-projects\\svelte-bindings\\src\\Slots\\Hoverable.svelte"
+                },
+                {
+                    "blank": 3,
+                    "code": 11,
+                    "comment": 2,
+                    "filename": "c:\\Users\\hoeje\\Desktop\\svelte-projects\\svelte-bindings\\src\\Stores\\Counter.svelte"
+                },
+                {
+                    "blank": 2,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "c:\\Users\\hoeje\\Desktop\\svelte-projects\\svelte-bindings\\src\\Stores\\Decrementer.svelte"
+                },
+                {
+                    "blank": 3,
+                    "code": 7,
+                    "comment": 1,
+                    "filename": "c:\\Users\\hoeje\\Desktop\\svelte-projects\\svelte-bindings\\src\\Stores\\Incrementer.svelte"
+                },
+                {
+                    "blank": 3,
+                    "code": 7,
+                    "comment": 1,
+                    "filename": "c:\\Users\\hoeje\\Desktop\\svelte-projects\\svelte-bindings\\src\\Stores\\Resetter.svelte"
+                },
+                {
+                    "blank": 2,
+                    "code": 2,
+                    "comment": 1,
+                    "filename": "c:\\Users\\hoeje\\Desktop\\svelte-projects\\svelte-bindings\\src\\Stores\\stores.js"
+                },
+                {
+                    "blank": 3,
+                    "code": 17,
+                    "comment": 0,
+                    "filename": "c:\\Users\\hoeje\\Desktop\\svelte-projects\\svelte-bindings\\src\\Subscribe.svelte"
+                },
+                {
+                    "blank": 20,
+                    "code": 141,
+                    "comment": 0,
+                    "filename": "c:\\Users\\hoeje\\Desktop\\svelte-projects\\svelte-bindings\\src\\Todos.svelte"
+                },
+                {
+                    "blank": 2,
+                    "code": 11,
+                    "comment": 0,
+                    "filename": "c:\\Users\\hoeje\\Desktop\\svelte-projects\\svelte-bindings\\src\\Transitions\\Transition.svelte"
+                },
+                {
+                    "blank": 26,
+                    "code": 107,
+                    "comment": 7,
+                    "filename": "c:\\Users\\hoeje\\Desktop\\svelte-projects\\svelte-bindings\\src\\Video.svelte"
+                },
+                {
+                    "blank": 1,
+                    "code": 1812,
+                    "comment": 0,
+                    "filename": "package-lock.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 23,
+                    "comment": 0,
+                    "filename": "package.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "public\\build\\bundle.css"
+                },
+                {
+                    "blank": 488,
+                    "code": 3984,
+                    "comment": 88,
+                    "filename": "public\\build\\bundle.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "public\\build\\bundle.js.map"
+                },
+                {
+                    "filename": "public\\favicon.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 12,
+                    "code": 61,
+                    "comment": 0,
+                    "filename": "public\\global.css"
+                },
+                {
+                    "blank": 4,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": "public\\index.html"
+                },
+                {
+                    "blank": 24,
+                    "code": 36,
+                    "comment": 8,
+                    "filename": "README.md"
+                },
+                {
+                    "blank": 10,
+                    "code": 52,
+                    "comment": 14,
+                    "filename": "rollup.config.js"
+                },
+                {
+                    "blank": 24,
+                    "code": 64,
+                    "comment": 29,
+                    "filename": "scripts\\setupTypeScript.js"
+                },
+                {
+                    "blank": 7,
+                    "code": 73,
+                    "comment": 0,
+                    "filename": "src\\App.svelte"
+                },
+                {
+                    "blank": 7,
+                    "code": 111,
+                    "comment": 0,
+                    "filename": "src\\Components\\EditMovie.svelte"
+                },
+                {
+                    "blank": 10,
+                    "code": 133,
+                    "comment": 2,
+                    "filename": "src\\Components\\Movie.svelte"
+                },
+                {
+                    "blank": 7,
+                    "code": 50,
+                    "comment": 0,
+                    "filename": "src\\Components\\MovieDetails.svelte"
+                },
+                {
+                    "blank": 9,
+                    "code": 52,
+                    "comment": 0,
+                    "filename": "src\\Components\\MovieFilter.svelte"
+                },
+                {
+                    "blank": 6,
+                    "code": 36,
+                    "comment": 0,
+                    "filename": "src\\Components\\MovieList.svelte"
+                },
+                {
+                    "blank": 2,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "src\\helpers\\validation.js"
+                },
+                {
+                    "blank": 2,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": "src\\main.js"
+                },
+                {
+                    "blank": 3,
+                    "code": 29,
+                    "comment": 0,
+                    "filename": "src\\movie-store.js"
+                },
+                {
+                    "blank": 2,
+                    "code": 17,
+                    "comment": 0,
+                    "filename": "src\\UI\\Badge.svelte"
+                },
+                {
+                    "blank": 1,
+                    "code": 16,
+                    "comment": 0,
+                    "filename": "src\\UI\\Header.svelte"
+                },
+                {
+                    "blank": 11,
+                    "code": 60,
+                    "comment": 0,
+                    "filename": "src\\UI\\Modal.svelte"
+                },
+                {
+                    "blank": 8,
+                    "code": 72,
+                    "comment": 0,
+                    "filename": "src\\UI\\TextInput.svelte"
+                }
+            ]
+        },
+        {
+            "version": "0.2.7",
+            "counttime": "2021-05-22 00:47:44",
+            "filesum": 25,
+            "codesum": 6722,
+            "commentsum": 141,
+            "blanksum": 639,
+            "statistics": {
+                ".svelte": {
+                    "code": 620,
+                    "comment": 2,
+                    "blank": 68
+                },
+                "": {
+                    "code": 3,
+                    "comment": 0,
+                    "blank": 1
+                },
+                ".js": {
+                    "code": 4146,
+                    "comment": 131,
+                    "blank": 529
+                },
+                ".md": {
+                    "code": 36,
+                    "comment": 8,
+                    "blank": 24
+                },
+                ".html": {
+                    "code": 19,
+                    "comment": 0,
+                    "blank": 4
+                },
+                ".css": {
+                    "code": 62,
+                    "comment": 0,
+                    "blank": 12
+                },
+                ".map": {
+                    "code": 1,
+                    "comment": 0,
+                    "blank": 0
+                },
+                ".json": {
+                    "code": 1835,
+                    "comment": 0,
+                    "blank": 1
+                }
+            },
+            "filelist": [
+                {
+                    "blank": 1,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": ".gitignore"
+                },
+                {
+                    "blank": 1,
+                    "code": 1812,
+                    "comment": 0,
+                    "filename": "package-lock.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 23,
+                    "comment": 0,
+                    "filename": "package.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "public\\build\\bundle.css"
+                },
+                {
+                    "blank": 488,
+                    "code": 3984,
+                    "comment": 88,
+                    "filename": "public\\build\\bundle.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "public\\build\\bundle.js.map"
+                },
+                {
+                    "filename": "public\\favicon.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 12,
+                    "code": 61,
+                    "comment": 0,
+                    "filename": "public\\global.css"
+                },
+                {
+                    "blank": 4,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": "public\\index.html"
+                },
+                {
+                    "blank": 24,
+                    "code": 36,
+                    "comment": 8,
+                    "filename": "README.md"
+                },
+                {
+                    "blank": 10,
+                    "code": 52,
+                    "comment": 14,
+                    "filename": "rollup.config.js"
+                },
+                {
+                    "blank": 24,
+                    "code": 64,
+                    "comment": 29,
+                    "filename": "scripts\\setupTypeScript.js"
+                },
+                {
+                    "blank": 7,
+                    "code": 73,
+                    "comment": 0,
+                    "filename": "src\\App.svelte"
+                },
+                {
+                    "blank": 7,
+                    "code": 111,
+                    "comment": 0,
+                    "filename": "src\\Components\\EditMovie.svelte"
+                },
+                {
+                    "blank": 10,
+                    "code": 133,
+                    "comment": 2,
+                    "filename": "src\\Components\\Movie.svelte"
+                },
+                {
+                    "blank": 7,
+                    "code": 50,
+                    "comment": 0,
+                    "filename": "src\\Components\\MovieDetails.svelte"
+                },
+                {
+                    "blank": 9,
+                    "code": 52,
+                    "comment": 0,
+                    "filename": "src\\Components\\MovieFilter.svelte"
+                },
+                {
+                    "blank": 6,
+                    "code": 36,
+                    "comment": 0,
+                    "filename": "src\\Components\\MovieList.svelte"
+                },
+                {
+                    "blank": 2,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "src\\helpers\\validation.js"
+                },
+                {
+                    "blank": 2,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": "src\\main.js"
+                },
+                {
+                    "blank": 3,
+                    "code": 29,
+                    "comment": 0,
+                    "filename": "src\\movie-store.js"
+                },
+                {
+                    "blank": 2,
+                    "code": 17,
+                    "comment": 0,
+                    "filename": "src\\UI\\Badge.svelte"
+                },
+                {
+                    "blank": 1,
+                    "code": 16,
+                    "comment": 0,
+                    "filename": "src\\UI\\Header.svelte"
+                },
+                {
+                    "blank": 11,
+                    "code": 60,
+                    "comment": 0,
+                    "filename": "src\\UI\\Modal.svelte"
+                },
+                {
+                    "blank": 8,
+                    "code": 72,
+                    "comment": 0,
+                    "filename": "src\\UI\\TextInput.svelte"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+===============================================================================
+EXTENSION NAME : linecounter
+EXTENSION VERSION : 0.2.7
+-------------------------------------------------------------------------------
+count time : 2021-05-22 00:47:18
+count workspace : c:\Users\hoeje\Desktop\svelte-projects\svelte-movies
+total files : 61
+total code lines : 14951
+total comment lines : 330
+total blank lines : 1431
+
+    statistics
+   |      extension|     total code|  total comment|    total blank|percent|
+   -------------------------------------------------------------------------
+   |          .json|           3670|              0|              2|     25|
+   |               |              6|              0|              2|  0.040|
+   |            .md|             72|             16|             48|   0.48|
+   |            .js|           9777|            299|           1166|     65|
+   |          .html|             33|              0|              8|   0.22|
+   |           .css|            116|              0|             23|   0.78|
+   |           .map|              2|              0|              0|  0.013|
+   |        .svelte|           1275|             15|            182|    8.5|
+   -------------------------------------------------------------------------
+.gitignore, code is 3, comment is 0, blank is 1.
+c:\Users\hoeje\Desktop\svelte-projects\svelte-bindings\.gitignore, code is 3, comment is 0, blank is 1.
+c:\Users\hoeje\Desktop\svelte-projects\svelte-bindings\package-lock.json, code is 1812, comment is 0, blank is 1.
+c:\Users\hoeje\Desktop\svelte-projects\svelte-bindings\package.json, code is 23, comment is 0, blank is 0.
+c:\Users\hoeje\Desktop\svelte-projects\svelte-bindings\public\build\bundle.css, code is 2, comment is 0, blank is 0.
+c:\Users\hoeje\Desktop\svelte-projects\svelte-bindings\public\build\bundle.js, code is 5498, comment is 124, blank is 597.
+c:\Users\hoeje\Desktop\svelte-projects\svelte-bindings\public\build\bundle.js.map, code is 1, comment is 0, blank is 0.
+c:\Users\hoeje\Desktop\svelte-projects\svelte-bindings\public\favicon.png, it is a binary file.
+c:\Users\hoeje\Desktop\svelte-projects\svelte-bindings\public\global.css, code is 52, comment is 0, blank is 11.
+c:\Users\hoeje\Desktop\svelte-projects\svelte-bindings\public\index.html, code is 14, comment is 0, blank is 4.
+c:\Users\hoeje\Desktop\svelte-projects\svelte-bindings\README.md, code is 36, comment is 8, blank is 24.
+c:\Users\hoeje\Desktop\svelte-projects\svelte-bindings\rollup.config.js, code is 52, comment is 14, blank is 10.
+c:\Users\hoeje\Desktop\svelte-projects\svelte-bindings\scripts\setupTypeScript.js, code is 64, comment is 29, blank is 24.
+c:\Users\hoeje\Desktop\svelte-projects\svelte-bindings\src\App.svelte, code is 77, comment is 0, blank is 4.
+c:\Users\hoeje\Desktop\svelte-projects\svelte-bindings\src\Classes\ClassBinding.svelte, code is 5, comment is 0, blank is 1.
+c:\Users\hoeje\Desktop\svelte-projects\svelte-bindings\src\Dimensions.svelte, code is 23, comment is 0, blank is 4.
+c:\Users\hoeje\Desktop\svelte-projects\svelte-bindings\src\GroupInputs.svelte, code is 35, comment is 0, blank is 8.
+c:\Users\hoeje\Desktop\svelte-projects\svelte-bindings\src\Keypad.svelte, code is 33, comment is 0, blank is 7.
+c:\Users\hoeje\Desktop\svelte-projects\svelte-bindings\src\Lifecycles\OnMount.svelte, code is 35, comment is 1, blank is 6.
+c:\Users\hoeje\Desktop\svelte-projects\svelte-bindings\src\Lifecycles\utils.js, code is 7, comment is 0, blank is 2.
+c:\Users\hoeje\Desktop\svelte-projects\svelte-bindings\src\main.js, code is 8, comment is 0, blank is 2.
+c:\Users\hoeje\Desktop\svelte-projects\svelte-bindings\src\Motion\Spring.svelte, code is 50, comment is 0, blank is 4.
+c:\Users\hoeje\Desktop\svelte-projects\svelte-bindings\src\Motion\Tweening.svelte, code is 20, comment is 1, blank is 8.
+c:\Users\hoeje\Desktop\svelte-projects\svelte-bindings\src\NumberSlider.svelte, code is 15, comment is 0, blank is 3.
+c:\Users\hoeje\Desktop\svelte-projects\svelte-bindings\src\SelectBindings.svelte, code is 4, comment is 0, blank is 0.
+c:\Users\hoeje\Desktop\svelte-projects\svelte-bindings\src\Slots\Box.svelte, code is 15, comment is 0, blank is 1.
+c:\Users\hoeje\Desktop\svelte-projects\svelte-bindings\src\Slots\Hover.svelte, code is 23, comment is 0, blank is 3.
+c:\Users\hoeje\Desktop\svelte-projects\svelte-bindings\src\Slots\Hoverable.svelte, code is 12, comment is 0, blank is 3.
+c:\Users\hoeje\Desktop\svelte-projects\svelte-bindings\src\Stores\Counter.svelte, code is 11, comment is 2, blank is 3.
+c:\Users\hoeje\Desktop\svelte-projects\svelte-bindings\src\Stores\Decrementer.svelte, code is 7, comment is 0, blank is 2.
+c:\Users\hoeje\Desktop\svelte-projects\svelte-bindings\src\Stores\Incrementer.svelte, code is 7, comment is 1, blank is 3.
+c:\Users\hoeje\Desktop\svelte-projects\svelte-bindings\src\Stores\Resetter.svelte, code is 7, comment is 1, blank is 3.
+c:\Users\hoeje\Desktop\svelte-projects\svelte-bindings\src\Stores\stores.js, code is 2, comment is 1, blank is 2.
+c:\Users\hoeje\Desktop\svelte-projects\svelte-bindings\src\Subscribe.svelte, code is 17, comment is 0, blank is 3.
+c:\Users\hoeje\Desktop\svelte-projects\svelte-bindings\src\Todos.svelte, code is 141, comment is 0, blank is 20.
+c:\Users\hoeje\Desktop\svelte-projects\svelte-bindings\src\Transitions\Transition.svelte, code is 11, comment is 0, blank is 2.
+c:\Users\hoeje\Desktop\svelte-projects\svelte-bindings\src\Video.svelte, code is 107, comment is 7, blank is 26.
+package-lock.json, code is 1812, comment is 0, blank is 1.
+package.json, code is 23, comment is 0, blank is 0.
+public\build\bundle.css, code is 1, comment is 0, blank is 0.
+public\build\bundle.js, code is 3984, comment is 88, blank is 488.
+public\build\bundle.js.map, code is 1, comment is 0, blank is 0.
+public\favicon.png, it is a binary file.
+public\global.css, code is 61, comment is 0, blank is 12.
+public\index.html, code is 19, comment is 0, blank is 4.
+README.md, code is 36, comment is 8, blank is 24.
+rollup.config.js, code is 52, comment is 14, blank is 10.
+scripts\setupTypeScript.js, code is 64, comment is 29, blank is 24.
+src\App.svelte, code is 73, comment is 0, blank is 7.
+src\Components\EditMovie.svelte, code is 111, comment is 0, blank is 7.
+src\Components\Movie.svelte, code is 133, comment is 2, blank is 10.
+src\Components\MovieDetails.svelte, code is 50, comment is 0, blank is 7.
+src\Components\MovieFilter.svelte, code is 52, comment is 0, blank is 9.
+src\Components\MovieList.svelte, code is 36, comment is 0, blank is 6.
+src\helpers\validation.js, code is 9, comment is 0, blank is 2.
+src\main.js, code is 8, comment is 0, blank is 2.
+src\movie-store.js, code is 29, comment is 0, blank is 3.
+src\UI\Badge.svelte, code is 17, comment is 0, blank is 2.
+src\UI\Header.svelte, code is 16, comment is 0, blank is 1.
+src\UI\Modal.svelte, code is 60, comment is 0, blank is 11.
+src\UI\TextInput.svelte, code is 72, comment is 0, blank is 8.
+===============================================================================
+===============================================================================
+EXTENSION NAME : linecounter
+EXTENSION VERSION : 0.2.7
+-------------------------------------------------------------------------------
+count time : 2021-05-22 00:47:44
+count workspace : c:\Users\hoeje\Desktop\svelte-projects\svelte-movies
+total files : 25
+total code lines : 6722
+total comment lines : 141
+total blank lines : 639
+
+    statistics
+   |      extension|     total code|  total comment|    total blank|percent|
+   -------------------------------------------------------------------------
+   |        .svelte|            620|              2|             68|    9.2|
+   |               |              3|              0|              1|  0.045|
+   |            .js|           4146|            131|            529|     62|
+   |            .md|             36|              8|             24|   0.54|
+   |          .html|             19|              0|              4|   0.28|
+   |           .css|             62|              0|             12|   0.92|
+   |           .map|              1|              0|              0|  0.015|
+   |          .json|           1835|              0|              1|     27|
+   -------------------------------------------------------------------------
+.gitignore, code is 3, comment is 0, blank is 1.
+package-lock.json, code is 1812, comment is 0, blank is 1.
+package.json, code is 23, comment is 0, blank is 0.
+public\build\bundle.css, code is 1, comment is 0, blank is 0.
+public\build\bundle.js, code is 3984, comment is 88, blank is 488.
+public\build\bundle.js.map, code is 1, comment is 0, blank is 0.
+public\favicon.png, it is a binary file.
+public\global.css, code is 61, comment is 0, blank is 12.
+public\index.html, code is 19, comment is 0, blank is 4.
+README.md, code is 36, comment is 8, blank is 24.
+rollup.config.js, code is 52, comment is 14, blank is 10.
+scripts\setupTypeScript.js, code is 64, comment is 29, blank is 24.
+src\App.svelte, code is 73, comment is 0, blank is 7.
+src\Components\EditMovie.svelte, code is 111, comment is 0, blank is 7.
+src\Components\Movie.svelte, code is 133, comment is 2, blank is 10.
+src\Components\MovieDetails.svelte, code is 50, comment is 0, blank is 7.
+src\Components\MovieFilter.svelte, code is 52, comment is 0, blank is 9.
+src\Components\MovieList.svelte, code is 36, comment is 0, blank is 6.
+src\helpers\validation.js, code is 9, comment is 0, blank is 2.
+src\main.js, code is 8, comment is 0, blank is 2.
+src\movie-store.js, code is 29, comment is 0, blank is 3.
+src\UI\Badge.svelte, code is 17, comment is 0, blank is 2.
+src\UI\Header.svelte, code is 16, comment is 0, blank is 1.
+src\UI\Modal.svelte, code is 60, comment is 0, blank is 11.
+src\UI\TextInput.svelte, code is 72, comment is 0, blank is 8.
+===============================================================================
